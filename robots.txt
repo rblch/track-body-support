@@ -1,0 +1,4 @@
+# The Impressum requests exclusion from search results via its noindex meta tag.
+# Allow crawling so search engines can read that instruction.
+User-agent: *
+Allow: /impressum/
